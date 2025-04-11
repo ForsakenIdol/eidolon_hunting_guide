@@ -118,6 +118,8 @@ I'll provide some common acronyms that are used within the Eidolon hunting commu
 
 - VS: Stands for "Void Strike", but is also used to refer to the client player in a squad who's only job is to break the Eidolon's sentient shielding. In a fast / strictly meta squad, this player does NOT handle lures - the host handles lures.
 
+- ds: Desync. This is used to refer to the situation where the Eidolon's animations stop playing after a limb shot. It's rare, but not relevant for you as a lure handler, unless you are assisting with shield breaks. Desync typically fixes itself after the next limb shot.
+
 - Weep Phase: After the final limb / synovia on the Eidolon is broken, it collapses and enters this phase on a fixed timer.
 
 - Capshot: The final damage dealt to an Eidolon before it is killed or captured. The capshot occurs after Eidolon stands back up after the "Weep" phase and the entire body becomes vulnerable again, for the last time.
