@@ -6,17 +6,17 @@
 
 ## Introduction
 
-Hi everyone, ForsakenIdol here. I recently came across an excellent video explaining the recent Warframe content updates that have led to the steady decline of reasons to hunt Eidolons. There's no question about it - Eidolon hunting is a dying sport. Eidolon Arcanes can now be farmed through Vosfor packs, and Focus farming is more easily done by killing Thrax on the Zariman, or in Sanctuary Onslaught with a Focus lens. So why would you still want to hunt Eidolons?
+Hi everyone, ForsakenIdol here. Little bit about myself: I have over 1000 Eidolon Hydrolyst captures, I've completed a solo 6x3, and I do 6x3 hunts in duos, trios, and full squads. I have played all of the possible roles in an Eidolon hunting squad; I've hosted a squad, and ran as either the client VS or the lure handler. I've ran 6x3 hunts with various different frames: Volt, Jade, Wisp, and Trinity, and it's safe to say that I have a decent amount of experience with fast, somewhat meta hunts.
 
-At the time of this video, I have over 1000 Eidolon Hydrolyst captures. I also have a solo 6x3 under my belt, and countless 6x3 hunts in duos, trios, and full squads. I have played all of the possible roles in an Eidolon hunting squad; I've hosted a squad, and ran as either the client VS or the lure handler. I've ran 6x3 hunts with various different frames: Volt, Jade, Wisp, and Trinity, and it's safe to say that I have a decent amount of experience with fast, somewhat meta hunts. I personally still hunt Eidolons for a variety of reasons:
-
-- Eidolons are a lategame piece of content on a region that is available very early in the game's progression cycle. I've done a number of solo hunts in public squads to produce Eidolon drops for other players, and to show new players what they can do with the right gear. It's a fun way to engage with the community and for me to practise hunting on varying levels of ping.
-
-- Eidolon shards bypass the daily focus cap. I personally don't need to farm focus anymore, as I have over 100 million overflow focus in Eidolon shards, but other players still do.
+I recently came across an excellent video going over the mainline Warframe content updates that have led to the steady decline of reasons to hunt Eidolons. There's no question about it - Eidolon hunting is a dying sport. Eidolon Arcanes can now be farmed through Vosfor packs, and Focus farming is more easily done by killing Thrax on the Zariman, or in Sanctuary Onslaught with a Focus lens. So why would you still want to hunt Eidolons? I personally still hunt Eidolons for a variety of reasons:
 
 - Eidolon hunting, alongside Profit-Taker hunts, are an alternate endgame to archimedia missions that requires build planning and in-game proficiency. If you're looking for a skillcheck, consider getting into Eidolon hunting.
 
-- And most importantly, Eidolon hunting is fun! Don't focus on the meta too hard, just hang out with your squad, and have fun.
+- Eidolon shards bypass the daily focus cap. I personally don't need to farm focus anymore, as I have over 100 million overflow focus in Eidolon shards, but other players still do.
+
+- Eidolons are a lategame piece of content on a region that is available very early in the game's progression cycle. I've done a number of solo hunts in public squads to produce Eidolon drops for other players, and to show new players what they can do with the right gear. It's a fun way to engage with the community and for me to practise hunting on varying levels of ping.
+
+- And most importantly, I think Eidolon hunting is fun! Don't focus on the meta too hard, just hang out with your squad, and have fun.
 
 Today, I want to provide a method for new players to get into 5x3 or 6x3 Eidolon hunts with a **very** low gear requirement, where the only barrier to success is skill and practise. Today, I want to explain how to lure handle.
 
