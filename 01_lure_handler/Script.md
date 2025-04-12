@@ -6,23 +6,23 @@
 
 ## Introduction
 
-Hi everyone, ForsakenIdol here. Little bit about myself: I have over 1000 Eidolon Hydrolyst captures, I've completed a solo 6x3, and I do 6x3 hunts in duos, trios, and full squads. I have played all of the possible roles in an Eidolon hunting squad; I've hosted a squad, and ran as either the client VS or the lure handler. I've ran 6x3 hunts with various different frames: Volt, Jade, Wisp, and Trinity, and it's safe to say that I have a decent amount of experience with fast, somewhat meta hunts.
+Hi everyone, ForsakenIdol here. I recently watched a fantastic video going over the mainline Warframe content updates that have led to the steady decline of reasons to hunt Eidolons. There's no question about it - Eidolon hunting is a dying sport. Eidolon Arcanes can now be farmed through Vosfor packs, and Focus farming is more easily done by killing Thrax on the Zariman, or in Sanctuary Onslaught with a Focus lens. More concerningly, there is a very high gear check for anyone wanting to hunt Eidolons solo, even if you're not going very fast.
 
-I recently came across an excellent video going over the mainline Warframe content updates that have led to the steady decline of reasons to hunt Eidolons. There's no question about it - Eidolon hunting is a dying sport. Eidolon Arcanes can now be farmed through Vosfor packs, and Focus farming is more easily done by killing Thrax on the Zariman, or in Sanctuary Onslaught with a Focus lens. So why would you still want to hunt Eidolons? I personally still hunt Eidolons for a variety of reasons:
+So why would you still want to hunt Eidolons? There's a few reasons that come to mind:
 
-- Eidolon hunting, alongside Profit-Taker hunts, are an alternate endgame to archimedia missions that requires build planning and in-game proficiency. If you're looking for a skillcheck, consider getting into Eidolon hunting.
+- Eidolon hunting, alongside Profit-Taker hunts, are an alternate endgame to archimedia missions that requires build planning and in-game proficiency.
 
-- Eidolon shards bypass the daily focus cap. I personally don't need to farm focus anymore, as I have over 100 million overflow focus in Eidolon shards, but other players still do.
+- Eidolon shards bypass the daily focus cap. I don't need to farm focus anymore, I have over 100 million overflow focus in Eidolon shards, but other players still do.
 
-- Eidolons are a lategame piece of content on a region that is available very early in the game's progression cycle. I've done a number of solo hunts in public squads to produce Eidolon drops for other players, and to show new players what they can do with the right gear. It's a fun way to engage with the community and for me to practise hunting on varying levels of ping.
+- Eidolons are a lategame piece of content on a region that is available very early in the game's progression cycle. I've done a bunch of solo hunts in public squads to give Eidolon drops to other players, and to show them what they can do with the right gear. It's a fun way to engage with new players and for me to practise hunting on different levels of ping.
 
-- And most importantly, I think Eidolon hunting is fun! Don't focus on the meta too hard, just hang out with your squad, and have fun.
+- And most importantly, I think Eidolon hunting is pretty fun if you don't focus on the meta too hard and just hang out with your squad.
 
-Today, I want to provide a method for new players to get into 5x3 or 6x3 Eidolon hunts with a **very** low gear requirement, where the only barrier to success is skill and practise. Today, I want to explain how to lure handle.
+Today, I want to provide a method for new players to get into 5x3 or 6x3 Eidolon hunts with a **very** low gear requirement, where the only barrier to success is skill and practise. Today, I want to explain how to lure handle. This is a very good skill to have that will get you into faster hunting squads without needing complex builds, where you can still provide value to your team.
 
 ## The Basics
 
-This video will **not** dive into the basic mechanics of Eidolon hunting, but I'll cover these very quickly.
+This video will **not** dive too deep into the basic mechanics of Eidolon hunting, but I'll cover these very quickly.
 
 - You can hunt 3 Eidolons per play session during night on the plains.
     - "3 Eidolons per session"
@@ -30,10 +30,10 @@ This video will **not** dive into the basic mechanics of Eidolon hunting, but I'
     - "Teralyst (Terry), Gantulyst (Garry), Hydrolyst (Harry)"
 - Each Eidolon can either be killed or captured. Terry requires 2 charged Eidolon lures for a capture, while Garry and Harry each require 3 charged lures.
     - "Lures required for each capture: 2, 3, 3"
-- Capture of the previous Eidolon tier is required to spawn the next tier of Eidolons.
+- Capture of the previous Eidolon tier is required to spawn the next tier of Eidolons. Capturing Harry has a chance to drop 3 arcanes that are not in the drop pool for a kill.
     - "Always capture the Eidolon!"
 
-Throughout this video, I'll be making reference to some Eidolon-specific acronyms that you may not be familiar with. I'll cover these acronyms in the video description, but feel free to let me know if I've missed any.
+Throughout this video, I'll be making reference to some Eidolon-specific acronyms and phrases that you may not already be familiar with. I'll cover these acronyms in the video description, but feel free to let me know if I've missed any.
 
 ## 01 - Why do we lure handle?
 
@@ -111,6 +111,8 @@ OCE is a dead region
 send help
 
 ---
+
+Hi everyone! ForsakenIdol here. I'm a Warframe player over a thousand Eidolon hunts, and 6x3 experience in all formats - solo, duos, trios, and full squads. I've played all of the possible roles in an Eidolon hunting squad; I've hosted squads, and ran as either shields or lure handler. I've ran 6x3 hunts with various different frames: Volt, Jade, Wisp, and Trinity, and while I'm not a speedrunner, it's pretty safe to say that I have a decent amount of experience with fast, semi-meta Eidolon hunting.
 
 I'll provide some common acronyms that are used within the Eidolon hunting community, as well as those that I use when hunting with my duo.
 
