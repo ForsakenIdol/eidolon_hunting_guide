@@ -37,13 +37,13 @@ Throughout this video, I'll be making reference to some Eidolon-specific acronym
 
 ## 01 - Why do we lure handle?
 
-One of the biggest hurdles that solo hunters come across when attempting a 6x3 hunt is how to lure handle effectively. This difficulty manifests in 3 main forms:
+One of the difficulties that solo hunters encounter when attempting a 6x3 hunt is how to lure handle effectively. This difficulty manifests in 3 main forms:
 
 - Quick charging, which is when you try to get a charged lure as fast as possible out of the gate,
-- Obtaining lures, and
-- Charging lures.
+- Obtaining new lures, and
+- Charging those lures.
 
-The latter 2 are typically done either after breaking Eidolon synovia (aka limbs), or during the Eidolon's Weep phase.
+The 2nd and 3rd objectives are typically done either after breaking Eidolon synovia (aka limbs), or during the Eidolon's Weep phase.
 
 The lure handler in a squad serves 2 main purposes.
 
@@ -52,55 +52,95 @@ The lure handler in a squad serves 2 main purposes.
 
 It is also your responsibility as a lure handler to keep the lures alive until you pass them to the host. In order to pass a lure (charged or uncharged) to another player in the squad, you must first pause the lure by interacting with it. The other player will then walk up to the lure and unpause it, making the lure follow them instead. Depending on your frame of choice, you may also have the responsibility of keeping the lures alive, regardless of who the lure is following.
 
-Lure handlers take on the responsibility of lure management away from the host, allowing them to focus on the actual Eidolon fight.
+Lure handlers take the responsibility and stress of lure management away from the host, allowing them to focus on the actual Eidolon fight. Also depending on your frame of choice, you may provide additional benefits to a squad, such as a damage increase, damage reduction, or health regen.
 
-As a lure handler, you can immediately move to fast squads with minimal gear investment, while bringing value to and supporting veteran hunters.
+As a lure handler, once you learn the basics, you can quickly move to faster hunting squads with minimal gear investment, while bringing value to your host.
 
 ## 02a - The Poverty Loadout: Trinity Prime
 
-We're going to cover 2 classes of lure handler loadouts in this video. We'll start with the poverty loadout, which is aimed at new players wanting to get into this content as fast as possible, then we'll move onto a baseline loadout, which you can use if you want to lure handle more easily and eventually move to a different role in the squad, or even start to hunt solo.
+We're gonna cover 2 types of lure handler loadouts in this video. We'll start with the poverty loadout, which is aimed at new players wanting to get into this content as fast as possible, where you might not have that many resources to invest in your setup. I'll also share a baseline loadout, which you can use if you want to lure handle more easily, or even start to hunt solo.
 
-Let's start with the poverty loadout, which only requires the Warframe and primary weapon to be built. We'll use Trinity, because when we hit the strength breakpoint, her 4th ability bless will completely restore the health and shields of all Eidolon lures and players within your affinity radius. This effectively gives you a "panic" button in case a lure gets stuck somewhere and keeps taking damage.
+Let's start with the poverty loadout, which only requires the Warframe and primary weapon to be built. We'll use Trinity, because when we hit the strength breakpoint, her 4th ability, bless, will completely restore the health and shields of all Eidolon lures and players within your affinity radius. This effectively gives you a "panic" button in case a lure gets stuck somewhere and keeps taking damage.
 
 *\<display build\>* https://overframe.gg/build/666116/trinity-prime/beginner-lure-handler-trinity/
 
-This is a 0 forma build, but it does require an Orokin Reactor. There is an ability strength threshold that allows Trinity's 4th ability, Bless, to fully restore health and shields of Warframes and lures in affinity range. As this is the main ability we will be using on Trininty and its range is tied to our affinity range, we can dump ability range on Trinity. For the remaining mod slots:
+This is a 0 forma build, but it does require an Orokin Reactor. There is an ability strength threshold that allows Trinity's 4th ability, Bless, to fully restore health and shields of Warframes and lures in affinity range. As this is the main ability we will be using on Trininty and its range is tied to our affinity range, we can dump ability range on our loadout. For the remaining mod slots:
 
-- Energy Nexus gives us steady energy regeneration over time. This can be swapped out with any other mod if you will be running the Zenurik focus school.
+- Energy Nexus gives us steady energy regen over time. This can be swapped out with any other mod if you will be running the Zenurik focus school.
 - Fleeting Expertise makes our abilities much cheaper to cast. This can be swapped with Streamline if you are running Energy Nexus or if you don't have Fleeting Expertise.
-- Narrow Minded, Continuity and Augur Message give us a lot of ability duration. This allows a single cast of Bless to provide damage reduction for 18 seconds.
+- Narrow Minded, Continuity and Augur Message give us a lot of ability duration. This allows a single cast of Bless to provide residual damage reduction for a long time.
 - Rush gives you sprint speed, which affects the speed of your archwing.
 
-Note that if you put this build on regular Trinity, you will need a single forma anywhere in the build to make it fit. Alternatively, you can drop 3 mod ranks from anywhere on the build (excluding any ability strength mods) to make it fit with zero forma.
+If you put this build on regular Trinity, you will need a single forma anywhere in the build to make it fit. Alternatively, you can drop 3 mod ranks from anywhere on the build (excluding any ability strength mods) to make it fit with zero forma.
 
 ## 02b - The Poverty Loadout: Fulmin
 
-Now, let's discuss our primary weapon, which will be the Fulmin. Either the regular Fulmin or the Fulmin Prime will suffice. Once again, this will require an Orokin Catalyst for 60 mod capacity. The Fulmin will be used for both acquiring lures and converting Eidolon Vombalysts into their spectral forms to charge lures. This is a standard crit build with radiation mods equipped, and fire rate is useful to increase lure acquisition speed.
+Now, let's discuss our primary weapon, which will be the Fulmin. Either the regular Fulmin or the Fulmin Prime will suffice. Once again, this will require an Orokin Catalyst for 60 mod capacity. This is a standard crit build with radiation mods equipped, and fire rate is useful to increase lure acquisition speed.
 
-There are no other weapons required in your loadout, but I would recommend equipping a melee weapon of your choice to allow you to melee slam out of archwing.
+The Fulmin will be used for both acquiring lures and converting Eidolon Vombalysts into their spectral forms to charge the lures. Remember: a lure must absorb 3 spectral vombalysts to be fully charged.
+
+There are no other weapons required for the poverty loadout, but I recommend equipping a melee weapon of your choice to allow you to melee slam out of archwing.
 
 ## 02c - The Poverty Loadout: Companion and Archwing
 
-Your companion will be the Wyrm Prime, and you can use any companion weapon that can achieve at least 50% modded critical chance for companion bond synergy. Wyrm Prime is used for 2 reasons:
+For the poverty loadout, companions are optional, but can be used to provide additional synergy. A good companion is the Wyrm Prime, and you can use any companion weapon that can achieve at least 50% modded critical chance for companion bond synergy. Wyrm Prime is used for 2 reasons:
 
-- Wyrm Prime has over 1200 modded shields with Calculated Redirection to allow us to use Tenacious bond.
-- Wyrm's precept mod, Negate, allows us to negate one status effect every 5 seconds. This is particularly useful for the Hydrolyst stage of the fight.
+- Wyrm Prime has over 1200 modded shields with Calculated Redirection to allow us to use Reinforced bond.
+- Wyrm's precept mod, Negate, allows us to avoid one status effect every 5 seconds. This is particularly useful for the Hydrolyst stage of the fight.
 
 Your Archwing will be the Itzal. Cosmic Crush is useful to allow Itzal's 3rd ability (which sucks in the vombalysts) to freeze them in place. Hyperion Thrusters is the only other recommended mod in this build to increase archwing flight speed.
 
-## 02d - The Poverty Loadout in Action
+## 03a - The Poverty Loadout in Action
 
-Now, let's look at how to play the role of lure handler.
+Let's take a look at how to play as a lure handler.
 
-Your first job will be helping your host quick charge. Specifically, unless your host provides different instructions, you will be assisting with something called a 2+2.
+Your first job will be helping your host perform a quick charge, or QC. Specifically, unless your host gives you different instructions, you will be assisting with something called a 2+2 QC. Before we explain the QC, and how the lure handler can help with it, let's see it in action from the host perspective.
 
-*(Explain how a 2+2 works and how to do it)*
+*(Show and explain how a 2+2 works)*
 
-***
+The 2+2 is so-named because there are 2 pairs of vombalysts that will be spawned. In this scenario, the host spawns the first set of vombalysts at the camp containing the lure, and the lure handler will assist with spawning the second set of vombalysts. The second set of vombalysts that spawn, triggered by the lure handler, is called the +2. In order for the lure handler to spawn the +2, once you exit the gate, bullet jump to clear the nullifying area around gate, immediately hop into your archwing, and approach the rock formation directly in front of you, which is called horns. As you approach the horns, you should cause the +2 to spawn. Move in, waypoint the +2, and wait for your host come to come over to you.
 
-Now, let's put everything together and see a full Teralyst capture from the perspective of a lure handler.
+Not every host needs help or wants help with spawning the +2 at horns. Make sure you check with your host regarding this before beginning the 6x3. For reference, here is an example of a quick charge where the host does not need help to spawn the +2.
 
+After the QC, you must now gather 2 lures from the environment and pass them to your host. You do not need to charge these lures and can pass them uncharged, but if you collect a lure and there is a pair of vombalysts nearby **and** you have the time to do so, you can add charges to these lures before pausing them at your host, but you should not go out of your way to get those charges - that is not required. You **must** pause the 2 lures at your host **before** they break the third limb on Terry. The host needs time to unpause the lures before the 4th limb break. After the 4th limb break, Terry will collapse and enter the Weep phase. Between the 4th limb break and the weep phase starting, there are vombalysts that will spawn underneath Terry, which the host can use to charge those lures. These vombalysts will disappear when the Weep phase begins, so your host is on a very short timer.
 
+Let's see what this stage of the hunt looks like. First, we'll look at a set from the lure handler POV, then we'll look at another set, but from the host POV.
+
+*(Show both perspectives, probably from different sets.)*
+
+This is where knowledge of the environment comes into play. The green symbols you see from my POV in the environment are green loc-pins that I've used to denote locations where a lure can spawn. These do **not** represent **all** of the possible spawn locations - just the ones that I tend to miss. I strongly encourage you as a lure handler to craft a bunch of these loc-pins, go out at night on the plains, and place those pins at certain camps, keeping in mind that there is a limit of 15 loc-pins you can place on the plains.
+
+## 03b - The Poverty Loadout in Action: 5 More Lures
+
+After passing the 2 lures to your host, the next stage of the hunt becomes a bit more interesting because there's a bunch of things you need to juggle. As a lure handler, your main role now is to collect and charge 5 more lures. There are 8 lures minimum required for the full hunt, and your squad already has 3 of them, therefore, you must now collect **and charge** 5 more. You need to do this while paying attention to the host progress on Terry, in order to be at the center shrine on time to spawn the next Eidolon, the Gantulyst, or Garry.
+
+You do not **only** start collecting the lures during the next stage. You should start collecting them immediately once you have passed off the aforementioned 2 lures. Once you know where to find these lures, you should be able to collect 5 lures before the end of the Weep phase on Terry. When Terry gets back up, he will spawn more vombalysts. The host may need them to charge their 3rd lure, but once the host has 3 charged lures, you can return to Terry and use the remaining spawns to charge your lures.
+
+There's a few things to keep in mind when searching for 5 more lures.
+
+- Most of the time at this stage, there will be exactly 5 lures as candidates to be spawned in anywhere on the plains.
+- A camp's entities do not spawn in automatically unless a player approaches that camp. Sometimes, if you approach too fast, the camp can bug out and not spawn anything.
+- Camps near the host that can spawn lures will typically spawn in their lures throughout the Terry stage of the fight. Check at these camps first before you go elsewhere. These camps remain loaded in because of proximity to a player.
+
+As you collect and charge lures, pay attention to the host's progress on the Teralyst and be ready to fly to the summoning shrine to pick up the Eidolon shards for summoning Garry. After you summon Garry, return to charging the lures using environmental vombalyst spawns around the main lake.
+
+## 03c - Addendum: Shrine Order
+
+Let's take a moment here to discuss shrine behavior. As a refresher, every player in a squad must collect and place the Brilliant Eidolon Shard into the center shrine to summon Garry. The same goes for Harry with the Radiant Eidolon Shards. However, only one player can interact with the shrine at a time.
+
+Unless your host gives you different instrucions, the lure handler **always** places their shard last out of the squad. This is because wherever possible, the host and any client VS in your squad can actually fly to points on the river where they can pre-empt one of the 4 possible Eidolon spawns. As a lure handler, you place your shard last because there's nothing for you to pre-empt. Any vombalysts that you can see will remain spawned in during the entire shrine phase.
+
+During the Garry stage of the hunt, continue charging your 5 lures, then once all of them are charged, fly to your host and pause those lures. You host will take those lures, and the main part of your job as a lure handler is now finished.
+
+Let's discuss additional things you can do to help your host from this point onwards.
+
+## 03d - The Poverty Loadout in Action: Harry
+
+When you are starting out as a lure handler, it's understandable that you may not be able to charge all 5 of the lures before the last limb break on Garry. However, the minimum number of lures you need to charge for Garry is 3. Along with the charged lure the host has during the start of the Garry fight, this will mean that you can pause 3 lures instead of 5, giving your host 4 lures to follow them. 3 of those lures will be consumed when capturing Garry, and you have 2 more lures to charge for capturing Harry.
+
+If you were able to charge all 5 lures before the Harry stage of the hunt, your job as a lure handler is, effectively, done. As Trinity, simply stay close to the lures and your host, and pay attention to their health. If your operator amp has the propa scaffold or the raplak prism, you can also assist with bringing down the shield - however, do not aim at any of the Eidolon limbs, as there are bugs that can occur if a client destroys a limb instead of the host. Simply aim at either the main Eidolon body, or get headshots with the raplak primary fire.
+
+Now, let's put all of this together and see a full 1x3 session, from the perspective of a lure handler.
 
 ### Description
 
@@ -114,7 +154,7 @@ send help
 
 Hi everyone! ForsakenIdol here. I'm a Warframe player over a thousand Eidolon hunts, and 6x3 experience in all formats - solo, duos, trios, and full squads. I've played all of the possible roles in an Eidolon hunting squad; I've hosted squads, and ran as either shields or lure handler. I've ran 6x3 hunts with various different frames: Volt, Jade, Wisp, and Trinity, and while I'm not a speedrunner, it's pretty safe to say that I have a decent amount of experience with fast, semi-meta Eidolon hunting.
 
-I'll provide some common acronyms that are used within the Eidolon hunting community, as well as those that I use when hunting with my duo.
+I'll share some common acronyms that are used within the Eidolon hunting community, as well as those that I use when hunting with my duo (you might see some of these in the in-game chat in the footage).
 
 - 6x3: When you complete a full hunt, i.e. a full capture of all 3 available Eidolons in a given play session and extract, this is called a 1x3 - 1 play session where 3 Eidolons are captured. When you complete 6 of these play sessions in a row (capturing 18 eidolons in a single 50-minute night cycle), this is called a 6x3.
 
