@@ -142,6 +142,46 @@ If you were able to charge all 5 lures before the Harry stage of the hunt, your 
 
 Now, let's put all of this together and see a full 1x3 session, from the perspective of a lure handler.
 
+## 04a - The Baseline Loadout
+
+The poverty loadout provides you with enough tools to 6x3 consistently, but there are many improvements we can make to the builds that make you more tanky, make your abilities better, and make you deal more damage and just go places quicker.
+
+Enter the baseline loadouts, which require more investment, but make your role easier to play.
+
+Let's start with Trinity. The baseline build is a straight upgrade over the poverty build, with a primed mod and maxed out vitality. Once again, we continue to spec into strength, duration, and efficiency, while sacrificing range as it is not necessary for Bless. This also gives us an opportunity to discuss potential subsumes over Trinity's first ability; here, I've chosen Protea's dispensary, as it's a good subsume to help your host without needing to build for range. You can run roar for a damage buff, but you will need to be **very** close to your host when you cast it for them to receive the effects, so positioning is important if you use roar as your subsume. Anything that benefits from strength and duration without needing much range will be good as a subsume if you choose to use one.
+
+The Fulmin also has a few changes for the Baseline build. This is an example of a full build, but you don't need anywhere near this many mods - I use this build because I previously invested in the Fulmin for other content.
+
+An alternative to the Fulmin, and a good weapon for players branching out into leading hunts, is the Rubico Prime. This is the first go-to weapon that hunters use when attempting to hunt solo or lead a squad. While it might have a rather steep price at around 60 platinum (as of making this video), it's fairly simple to build and easy to use. Here is a 1-forma build that can take out both lures and limbs pretty quickly.
+
+In the melee weapon slot, it's time to discuss gunblades. There are 2 gunblades, the Vastilok and the Sarpa, that are meta for Eidolon hunting, because the gun part of these gunblades deals impact damage. This allows us to strip Eidolon armor with Shattering Impact equipped. The Vastilok will strip armor faster than the Sarpa, but is also harder to acquire than the Sarpa, being a Baro Ki'Teer offering or bought with plat. For our purposes, let's show a basic Sarpa build that you can use as a lure handler to assist your host with the armor strip if required.
+
+Wyrm Prime becomes very useful here with companion bond synergy, but you still don't need a fully-built companion weapon for lure handling since you spend a lot of time in Archwing. We use both Tenacious Bond and Reinforced Bond to improve our critical damage and fire rate respectively.
+
+The Itzal archwing build sees some additions to ability range, allowing us to pull vombalysts in from further away with Cosmic Crush, and some ability efficiency to make that ability cost less energy to use.
+
+Last but not least, you may consider building a Necramech. The Necramech in this scenario is just a platform on which we can **equip** the Kuva Grattler, to give us an AoE archgun that we can just shoot the ground near the Eidolon to harvest vombalysts for our lures.
+
+## 04b - The Baseline Loadout: Jade
+
+An alternative to bringing Trinity, is to bring Jade as a lure handler. When bringing Jade, you lose the ability to heal lures in exchange for a number of arguably stronger buffs for you and your host.
+
+- Jade's first ability, when thrown on the ground, acts as a Wisp health mote. It creates a zone that provides healing to Warframes that enter the zone, and the effect remains for a time when they leave the zone.
+- Jade's 2nd ability provides 3 buffs that are **all** good for hunting. The ability strength buff improves the strength of your host's abilities, Deathbringer increases both weapon **and operator** damage and is the buff you will be using the most, and Spirit of Resilience increases shield regen, which can be swapped on when the host is not firing. Furthermore, these buffs, like Bless on Trinity, are tied to your affinity range, meaning you can sacrifice range on Jade as well for an Eidolon build.
+- Jade's 4th ability is an open Helmith slot for Eidolon hunting purposes as you do not use Glory on High when hunting. You can subsume any number of things, but you do not need a second damage bonus because Deathbringer is already extremely strong when modded for correctly. I personally run Nourish from Grendel to assist with my energy economy, but you can run Protea's dispensary as well.
+
+Here is a 3 forma build that, once again, prioritizes strength and duration. We slot 1 ability range mod to make the range of our healing mote slightly larger and easier to place in such a way that our host can easily find it.
+
+## 04c - The Baseline Loadout in Action
+
+There are very few changes to Trinity's playstyle when moving from the poverty loadout to the baseline loadout aside from lure acquisition speed, so let's have a look at how your playstyle changes when you play Jade as a lure handler. As mentioned previously, Jade does not have any way to heal lures; her first ability only heals Warframes, which means that you need to take care when handling lures to not get them stuck in a place where you can't move them. Her support playstyle is also more active, because you **must** be aware of your position when casting and maintaining your buffs from Symphony of Mercy, your second ability.
+
+After you've charged your 5 lures and gave them to the host, if you don't like micromanaging your buffs, just cycle over to Deathbringer, the weapon damage buff, and maintain this buff while staying within 50 meters of your host. However, it is possible to cycle over to the shield regen buff **after** your host fires at each limb, and cycle back to the weapon damage buff when your host is about to fire again. Let's have a look at a full set running Jade to see how this is different to Trinity.
+
+## 05 - Conclusion
+
+And that just about wraps it up! The barrier to a good lure handler is not the difficulty in putting a build together, but rather the skill you have in using that build to its required potential. I wanted to take a slightly different approach to all the solo Eidolon guides out there and show you an easier method to get into this content. I hope you've learnt something today about the lure handler process and now you feel equipped to go out and 6x3 with your squad. If you have any questions about what I've shown here, feel free to let me know in the comments, or let me know in game! Thanks for watching.
+
 ### Description
 
 just trying to get more people to hunt eidolons
