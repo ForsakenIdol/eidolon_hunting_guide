@@ -1,8 +1,14 @@
 man do I miss the old eidolon hunting days
 
+this is not a solo guide btw
+
+The video I referenced at the beginning is by Finallin: https://www.youtube.com/watch?v=rdhf8qOttDc
+
 ---
 
-Hi everyone! ForsakenIdol here. I'm a Warframe player over a thousand Eidolon hunts, and 6x3 experience in all formats - solo, duos, trios, and full squads. I've played all of the possible roles in an Eidolon hunting squad; I've hosted squads, and ran as either shields or lure handler. I've ran 6x3 hunts with various different frames: Volt, Jade, Wisp, and Trinity, and while I'm not a speedrunner, it's pretty safe to say that I have a decent amount of experience with fast, semi-meta Eidolon hunting.
+Hi everyone! ForsakenIdol here. I'm an Australian Warframe player over 900 Hydrolyst captures, and 6x3 experience in all formats - solo, duos, trios, and full squads. I've played all of the possible roles in an Eidolon hunting squad; I've hosted squads, and ran as either client shields (VS) or lure handler. I've ran 6x3 hunts with various different frames: Volt, Jade, Wisp, and Trinity, and while I'm not a speedrunner, it's pretty safe to say that I have a decent amount of experience with fast, semi-meta Eidolon hunting.
+
+This video goes over a VERY low investment poverty loadout for you to lure handle for a more experienced hunter, instead of having to hunt solo like most other guides tell you to do. With this build, you can move straight into hunts and build up enough experience to make you invaluable in a 6x3 squad.
 
 I'll share some common acronyms that are used within the Eidolon hunting community, as well as those that I use when hunting with my duo (you might see some of these in the in-game chat in the footage).
 
@@ -20,6 +26,8 @@ I'll share some common acronyms that are used within the Eidolon hunting communi
 
 - hb: "Have Backup". After the "5p" call, it's possible that another (9th) lure can spawn. You can grab this lure if you need a backup, should you lose one of the other lures. This is completely optional.
 
+Apologies for the bad video quality at times - YouTube's compression system can sometimes just ruin the video quality!
+
 ---
 
 Song Credits (in order):
@@ -33,3 +41,43 @@ https://www.youtube.com/watch?v=J1BQIbBXeEI
 kalaido - hanging lanterns
 Kalaido's Soundcloud: https://soundcloud.com/kalaidobeats
 https://www.youtube.com/watch?v=pduHLli6NnA
+
+---
+
+Timestamps:
+00:00 Prelude
+00:54 Why hunt Eidolons?
+01:56 The Basics of Hunting
+02:42 Why do we have a dedicated lure handler?
+03:13 What does a lure handler do?
+04:16 What loadouts will this video cover?
+05:05 Poverty Loadout - Trinity
+06:06 Poverty Loadout - Fulmin
+06:46 Poverty Loadout - Companions (Optional)
+07:22 Poverty Loadout - Archwing
+07:41 The Poverty Loadout in Action
+08:07 Demonstration - 2+2 Quick Charge (Host POV)
+08:58 How does the lure handler spawn the +2?
+09:32 Demonstration - 2+2 Quick Charge (Lure Handler POV)
+10:42 Collecting 2 more lures
+11:36 Demonstration: Teralyst Stage (Host POV)
+13:31 Use Loc-Pins to mark lure spawn points!
+14:01 Collecting and charging 5 more lures
+14:59 How to find 5 more lures
+15:48 Addendum - Shrine Behavior
+16:36 The Gantulyst Stage - Pausing Lures
+17:10 The Hydrolyst Stage
+18:39 Demonstration - Full Set (Trinity POV)
+26:49 The Baseline Builds
+27:12 Baseline Loadout - Trinity
+27:57 Baseline Loadout - Fulmin
+28:11 Baseline Loadout - Rubico Prime
+28:35 Baseline Loadout - Gunblades (Builds Optional)
+29:21 Baseline Loadout - Companions
+29:42 Baseline Loadout - Archwing
+29:53 Baseline Loadout - Necramech (Optional)
+30:10 Baseline Loadout - Jade (Alternate)
+31:52 Addendum - Focus Schools
+33:15 The Baseline Loadout in Action
+34:21 Demonstration - Full Set (Jade POV)
+42:22 Conclusion
