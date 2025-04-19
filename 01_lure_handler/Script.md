@@ -148,7 +148,7 @@ The poverty loadout provides you with enough tools to 6x3 consistently, but ther
 
 Enter the baseline loadouts, which require more investment, but make your role easier to play.
 
-Let's start with Trinity. The baseline build is a straight upgrade over the poverty build, with a primed mod and maxed out vitality. Once again, we continue to spec into strength, duration, and efficiency, while sacrificing range as it is not necessary for Bless. This also gives us an opportunity to discuss potential subsumes over Trinity's first ability; here, I've chosen Protea's dispensary, as it's a good subsume to help your host without needing to build for range. You can run roar for a damage buff, but you will need to be **very** close to your host when you cast it for them to receive the effects, so positioning is important if you use roar as your subsume. Anything that benefits from strength and duration without needing much range will be good as a subsume if you choose to use one.
+Let's start with Trinity. The baseline build is a straight upgrade, with Primed Continuity and maxed out vitality. Once again, we continue to spec into strength, duration, and efficiency, while sacrificing range as it is not necessary for Bless. This also gives us an opportunity to discuss potential subsumes over Trinity's first ability; here, I've chosen Protea's dispensary, as it's a good subsume to help your host without needing to build for range. You can run roar for a damage buff, but you will need to be **very** close to your host when you cast it for them to receive the effects, so positioning is important if you use roar as your subsume. Anything that benefits from strength and duration without needing much range will be good as a subsume if you choose to use one.
 
 The Fulmin also has a few changes for the Baseline build. This is an example of a full build, but you don't need anywhere near this many mods - I use this build because I previously invested in the Fulmin for other content.
 
@@ -172,40 +172,21 @@ An alternative to bringing Trinity, is to bring Jade as a lure handler. When bri
 
 Here is a 3 forma build that, once again, prioritizes strength and duration. We slot 1 ability range mod to make the range of our healing mote slightly larger and easier to place in such a way that our host can easily find it.
 
-## 04c - The Baseline Loadout in Action
+## 04c - Focus Schools
 
-There are very few changes to Trinity's playstyle when moving from the poverty loadout to the baseline loadout aside from lure acquisition speed, so let's have a look at how your playstyle changes when you play Jade as a lure handler. As mentioned previously, Jade does not have any way to heal lures; her first ability only heals Warframes, which means that you need to take care when handling lures to not get them stuck in a place where you can't move them. Her support playstyle is also more active, because you **must** be aware of your position when casting and maintaining your buffs from Symphony of Mercy, your second ability.
+Let's have a quick discussion on what focus school to bring as a lure handler. When I shared the poverty loadout, I was running Zenurik. This is the easiest school to use, because you get energy regen from Wellspring, and Inner Might lets you cast without spending energy. The meta focus school to bring, especially in solo hunts, is Madurai. Void Strike increases your operator and warframe damage, while contamination wave makes enemies, including the Eidolon, more vulnerable to Operator damage. Madurai also increases your elemental damage from Phoenix Talons.
+
+There are 2 other options. Unairu gives you access to the Caustic Strike ability, and while this does not strip Eidolon armor, throwing it at the Eidolon can trigger Unairu Wisp, to buff amp damage for the host. This also gives you some extra armor from Stone Skin. Vazarin's most relevant perk is Mending Unity, allowing you to trigger Trinity's Bless or Jade's buffs from further away.
+
+As Trinity, you can bring any of the 4 schools, but I would recommend bringing either Zenurik or Unairu, but you can bring Madurai for void strike if you are helping to clear Eidolon shields. Jade, on the other hand, already buffs operator damage, so there is no need for Madurai and you can bring either Zenurik or Unairu. In either scenario, if you find yourself standing further back than normal, you can also bring Vazarin, but this is typically not recommended.
+
+
+## 04d - The Baseline Loadout in Action
+
+There are very few changes to Trinity's playstyle when moving from the poverty loadout to the baseline loadout aside from lure acquisition speed, so let's have a look at how your playstyle changes when you play Jade as a lure handler. As mentioned previously, Jade does not have any way to heal lures; her first ability only heals Warframes, which means that you need to take care when handling lures to not get them stuck in a place where you can't move them. Her support playstyle is also more active, because you now actually have ways to buff your host.
 
 After you've charged your 5 lures and gave them to the host, if you don't like micromanaging your buffs, just cycle over to Deathbringer, the weapon damage buff, and maintain this buff while staying within 50 meters of your host. However, it is possible to cycle over to the shield regen buff **after** your host fires at each limb, and cycle back to the weapon damage buff when your host is about to fire again. Let's have a look at a full set running Jade to see how this is different to Trinity.
 
 ## 05 - Conclusion
 
-And that just about wraps it up! The barrier to a good lure handler is not the difficulty in putting a build together, but rather the skill you have in using that build to its required potential. I wanted to take a slightly different approach to all the solo Eidolon guides out there and show you an easier method to get into this content. I hope you've learnt something today about the lure handler process and now you feel equipped to go out and 6x3 with your squad. If you have any questions about what I've shown here, feel free to let me know in the comments, or let me know in game! Thanks for watching.
-
-### Description
-
-just trying to get more people to hunt eidolons
-
-OCE is a dead region
-
-send help
-
----
-
-Hi everyone! ForsakenIdol here. I'm a Warframe player over a thousand Eidolon hunts, and 6x3 experience in all formats - solo, duos, trios, and full squads. I've played all of the possible roles in an Eidolon hunting squad; I've hosted squads, and ran as either shields or lure handler. I've ran 6x3 hunts with various different frames: Volt, Jade, Wisp, and Trinity, and while I'm not a speedrunner, it's pretty safe to say that I have a decent amount of experience with fast, semi-meta Eidolon hunting.
-
-I'll share some common acronyms that are used within the Eidolon hunting community, as well as those that I use when hunting with my duo (you might see some of these in the in-game chat in the footage).
-
-- 6x3: When you complete a full hunt, i.e. a full capture of all 3 available Eidolons in a given play session and extract, this is called a 1x3 - 1 play session where 3 Eidolons are captured. When you complete 6 of these play sessions in a row (capturing 18 eidolons in a single 50-minute night cycle), this is called a 6x3.
-
-- VS: Stands for "Void Strike", but is also used to refer to the client player in a squad who's only job is to break the Eidolon's sentient shielding. In a fast / strictly meta squad, this player does NOT handle lures - the host handles lures.
-
-- ds: Desync. This is used to refer to the situation where the Eidolon's animations stop playing after a limb shot. It's rare, but not relevant for you as a lure handler, unless you are assisting with shield breaks. Desync typically fixes itself after the next limb shot.
-
-- Weep Phase: After the final limb / synovia on the Eidolon is broken, it collapses and enters this phase on a fixed timer.
-
-- Capshot: The final damage dealt to an Eidolon before it is killed or captured. The capshot occurs after Eidolon stands back up after the "Weep" phase and the entire body becomes vulnerable again, for the last time.
-
-- 2p / 5p: This is a callout to the number of lures paused by the lure handler, and simply means "2 paused" or "5 paused". It is assumed that "2p" refers to 2 uncharged lures, and "5p" refers to either 5 charged lures, or (if you can't charge all 5 for any reason) 4 charged lures and a 5th that is not fully charged. In 99% of cases, there is no reason why you should be pausing any less than 5 charged lures during the "5p" call.
-
-- hb: "Have Backup". After the "5p" call, it's possible that another (9th) lure can spawn. You can grab this lure if you need a backup, should you lose one of the other lures. This is completely optional.
+And that just about wraps it up! The barrier to a good lure handler is not the difficulty in putting a build together, but rather the skill needed to use the build to its required potential. I wanted to take a slightly different approach to all the solo Eidolon guides out there and show you an easier method to get into this content. I hope you've learnt something today about the lure handler process and now you feel equipped to go out and 6x3 with your squad. If you have any questions about what I've shown here, feel free to let me know in the comments, or let me know in game! Thanks for watching.
