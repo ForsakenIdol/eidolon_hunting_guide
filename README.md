@@ -4,6 +4,6 @@ Video Title:
 
 ---
 
-Warframe Beginner Eidolon Guide (2025) - Lure Handling for Squads
+Warframe Beginner Eidolon Guide (2025) - How to Lure Handle
 
 ---

@@ -1,19 +1,14 @@
 man I miss the old eidolon hunting days
 
-this is not a solo guide btw
-
-Check out my idalon.com profile: https://idalon.com/users/ForsakenIdol
-The video I referenced at the beginning is by Finallin: https://www.youtube.com/watch?v=rdhf8qOttDc
-
 ---
 
-Hi everyone! ForsakenIdol here. I'm an Australian Warframe player over 900 Hydrolyst captures, and 6x3 experience in all formats - solo, duos, trios, and full squads. I've played all of the possible roles in an Eidolon hunting squad; I've hosted squads, and ran as either client shields (VS) or lure handler. I've ran 6x3 hunts with various different frames: Volt, Jade, Wisp, and Trinity, and while I'm not a speedrunner, it's pretty safe to say that I have a decent amount of experience with fast, semi-meta Eidolon hunting.
+Hi everyone! ForsakenIdol here. I'm an Australian Warframe player over 900 Hydrolyst captures, and 6x3 experience in all formats - solo, duos, trios, and full squads. I've played all of the possible roles in an Eidolon hunting squad; I've hosted squads, and ran as either client shields (VS) or lure handler. I've ran 6x3 hunts with various different frames: Volt, Jade, Wisp, and Trinity, and while I'm not a speedrunner, I have a decent amount of experience with fast, semi-meta Eidolon hunting.
 
-This video goes over a VERY low investment poverty loadout for you to lure handle for a more experienced hunter, instead of having to hunt solo like most other guides tell you to do. With this build, you can move straight into hunts and build up enough experience to make you invaluable in a 6x3 squad.
+This video goes over a VERY low investment poverty loadout for you to lure handle for a more experienced hunter, instead of having to hunt solo like most other guides tell you to do. With this build, you can move straight into fast hunts and build up enough experience to make you invaluable in a 6x3 squad.
 
-I'll share some common acronyms that are used within the Eidolon hunting community, as well as those that I use when hunting with my duo (you might see some of these in the in-game chat in the footage).
+I'll share some common acronyms that are used within the Eidolon hunting community, as well as those that I use when hunting with my duo (you might see some of these in the in-game chat in the video footage).
 
-- 6x3: When you complete a full hunt, i.e. a full capture of all 3 available Eidolons in a given play session and extract, this is called a 1x3 - 1 play session where 3 Eidolons are captured. When you complete 6 of these play sessions in a row (capturing 18 eidolons in a single 50-minute night cycle), this is called a 6x3.
+- 6x3: When you complete a full hunt, i.e. a full capture of all 3 available Eidolons in a given play session and extract, this is called a 1x3 - 1 play session where 3 Eidolons are captured. When you complete 6 of these play sessions in a row (capturing 18 eidolons across 6 sets in a single 50-minute night cycle), this is called a 6x3.
 
 - VS: Stands for "Void Strike", but is also used to refer to the client player in a squad who's only job is to break the Eidolon's sentient shielding. In a fast / strictly meta squad, this player does NOT handle lures - the host handles lures.
 
@@ -23,11 +18,20 @@ I'll share some common acronyms that are used within the Eidolon hunting communi
 
 - Capshot: The final damage dealt to an Eidolon before it is killed or captured. The capshot occurs after Eidolon stands back up after the "Weep" phase and the entire body becomes vulnerable again, for the last time.
 
-- 2p / 5p: This is a callout to the number of lures paused by the lure handler, and simply means "2 paused" or "5 paused". It is assumed that "2p" refers to 2 uncharged lures, and "5p" refers to either 5 charged lures, or (if you can't charge all 5 for any reason) 4 charged lures and a 5th that is not fully charged. In 99% of cases, there is no reason why you should be pausing any less than 5 charged lures during the "5p" call.
+- 2p / 5p: This is a callout to the number of lures paused by the lure handler, and simply means "2 paused" or "5 paused". It is assumed that "2p" refers to 2 uncharged lures, and "5p" refers to 5 charged lures. If you have paused any uncharged lures, you should let your host know.
 
-- hb: "Have Backup". After the "5p" call, it's possible that another (9th) lure can spawn. You can grab this lure if you need a backup, should you lose one of the other lures. This is completely optional.
+- hb: "Have Backup". After the "5p" call, it's possible that another (9th) lure can spawn. You can grab this lure if you need a backup, should you lose one of the other lures. This is optional.
 
-Apologies for the bad video quality at times - YouTube's compression system can sometimes just ruin the video quality!
+---
+
+Other Resources:
+
+The video I referenced at the beginning is by Finallin: https://www.youtube.com/watch?v=rdhf8qOttDc
+Enjoy hunting but want to hunt solo? Check out this video by Brozime: https://www.youtube.com/watch?v=PAT9zPYg8yc
+Want to go fast solo but don't know how? Check out this guide instead: https://www.youtube.com/watch?v=2yJtdwjy7VE
+Current duo world record: https://www.youtube.com/watch?v=d1KAAS2eWMU
+
+Check out my Idalon profile here: https://idalon.com/users/ForsakenIdol
 
 ---
 
